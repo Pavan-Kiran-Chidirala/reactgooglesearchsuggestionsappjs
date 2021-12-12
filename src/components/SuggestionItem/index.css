@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.item-holder {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  margin: -5px;
+}
+.para {
+  color: #475569;
+}
+.arrow-button {
+  border-style: none;
+  width: 40px;
+  height: 40px;
+  outline: none;
+  background-color: white;
+}
+.arrow-icon {
+  width: 20px;
+  height: 20px;
+}
